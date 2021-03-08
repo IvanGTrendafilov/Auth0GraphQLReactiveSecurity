@@ -5,6 +5,7 @@ This sample demonstrates:
 - Configuring a Spring Boot WebFlux application as a Resource Server
 - Using and extending Spring Security to validate JWTs
 - Protecting APIs to only allow authorized access
+- Parse Auth0 Id_token with user metadata
 
 ## Prerequisites
 
